@@ -4,7 +4,7 @@ A minimal SwiftUI sample project that embeds **`WKWebView`** in a fully SwiftUI-
 It is intended as an easy-to-digest reference for anyone bringing web content into their SwiftUI apps without relying on UIKit view controllers.
 
 <p align="center">
-  <img src="Docs/screenshot.png" width="320" alt="App screenshot">
+  <img src="webview.png" width="320" alt="App screenshot">
 </p>
 
 ---
